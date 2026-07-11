@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #CAD2C5;
+  background-color: #2F3E46;
+}
