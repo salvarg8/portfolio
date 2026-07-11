@@ -18,8 +18,8 @@ const Curriculum = () => {
                 
                 {/* Botón de Descarga */}
                 <a
-                    href="/public/Fullstack java React - Rodriguez Garraza Salvador.pdf"
-                    download="Fullstack java React - Rodriguez Garraza Salvador.pdf"
+                    href="/public/Fullstack java React-Rodriguez Garraza Salvador.pdf"
+                    download="Fullstack java React-Rodriguez Garraza Salvador.pdf"
                     className="inline-flex items-center justify-center gap-3 bg-[#527987] hover:bg-[#3d5a65] text-white font-semibold text-lg py-3 px-8 rounded-full transition-all duration-300 transform hover:-translate-y-1 shadow-md hover:shadow-lg"
                 >
                     {/* Ícono de descarga en formato SVG */}
